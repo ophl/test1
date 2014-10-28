@@ -1,4 +1,4 @@
-// line.h : PROJECT_NAME 应用程序的主头文件
+// line.h : PROJECT_NAME 应用程
 //
 
 #pragma once
